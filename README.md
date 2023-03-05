@@ -1,2 +1,2 @@
 # Netflix_Project
-Criando um Leading page
+Criando um landing page
